@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shorts Blocker</string>
+    <string name="service_description">Places an invisible wall over the YouTube Shorts button so it cannot be tapped. Everything else in YouTube works normally.</string>
+</resources>
